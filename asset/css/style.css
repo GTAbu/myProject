@@ -595,7 +595,7 @@ section h1 {
 .erangel {
     width: 100%;
     height: 110vh;
-    background-image: url("../asset/img/omg.jpg");
+    background-image: url("../img/omg.jpg");
     object-fit: cover;
 
 }
